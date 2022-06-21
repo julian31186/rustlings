@@ -12,6 +12,7 @@ struct ColorTupleStruct(/* TODO: Something goes here */);
 #[derive(Debug)]
 struct UnitStruct;
 
+
 #[cfg(test)]
 mod tests {
     use super::*;
